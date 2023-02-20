@@ -1,7 +1,7 @@
 variable "storage" {
     description = "update rds storage"
     type = string
-    default = "80"
+    default = "120"
   
 }
 
